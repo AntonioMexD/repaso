@@ -1,0 +1,93 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "C:/Users/ASUS/Desktop/template-examen/app.rb": {
+        "lines": [
+          1
+        ]
+      },
+      "C:/Users/ASUS/Desktop/template-examen/features/step_definitions/template_steps.rb": {
+        "lines": [
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1592312812
+  },
+  "RSpec": {
+    "coverage": {
+      "C:/Users/ASUS/Desktop/template-examen/spec/transaccion_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/ASUS/Desktop/template-examen/lib/Transaccion.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1592316999
+  }
+}
